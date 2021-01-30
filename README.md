@@ -12,7 +12,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[Solution](https://github.com/MichaelNaghavipour/Daily-Coding-Challenge/blob/master/My-Solutions/Problem1.js)
+[My Solution](https://github.com/MichaelNaghavipour/Daily-Coding-Challenge/blob/master/My-Solutions/Problem1.js)
 
 ---
 
